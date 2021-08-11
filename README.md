@@ -1,4 +1,4 @@
-# Numero-Lineas
+# Numero Lineas
 
 ## Funcionalidad
 
